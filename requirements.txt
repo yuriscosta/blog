@@ -3,7 +3,7 @@ astroid==2.3.3
 autopep8==1.4.4
 backcall==0.1.0
 decorator==4.4.1
-Django==3.0.2
+Django==3.0.7
 django-taggit==1.2.0
 ipython==7.11.1
 ipython-genutils==0.2.0
